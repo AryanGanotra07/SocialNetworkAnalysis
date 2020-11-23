@@ -2,8 +2,8 @@
 
 ## TOC Project 2020
 
-### -Aryan Ganotra 
-### -Aryan Rana
+### -Aryan Ganotra (2K18/CO/096)
+### -Aryan Rana (2K18/CO/097)
 
 ```python
 #importing networkx
