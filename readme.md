@@ -1,9 +1,9 @@
-#Social Network Analysis
+# Social Network Analysis
 
-##TOC Project 2020
+## TOC Project 2020
 
-###-Aryan Ganotra 
-###-Aryan Rana
+### -Aryan Ganotra 
+### -Aryan Rana
 
 ```python
 #importing networkx
